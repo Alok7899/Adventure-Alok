@@ -1,2 +1,2 @@
 # Adventure-Alok
-This is my first repositry project.
+This is my first repository project.
